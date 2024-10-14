@@ -9,7 +9,7 @@ This project implements a Conditional Generative Adversarial Network (CGAN) for 
   - [Discriminator](#discriminator)
 - [Dataset](#dataset)
 - [Training](#training)
-- [Results](#results)
+- [Training Loop](#training-loop)
   - [Generated Images](#generated-images)
 - [Usage](#usage)
   - [Generating a Specific Image](#generating-a-specific-image)
@@ -55,7 +55,7 @@ python train.py
 
 Training runs for 150 epochs, saving the model every 30 epochs.
 
-# Results
+# Training Loop
 
 ### Generated Images (Epoch 20)
 
@@ -98,6 +98,12 @@ generator.load_state_dict(torch.load('models/generator_epoch_150.pth'))
 generate_image(generator, latent_dim=100, label=5)
 
 ```
+# Results
+
+### Generated Image Of 5
+
+![image](https://github.com/user-attachments/assets/00a9680f-e169-413b-bed1-af55a8a9263d)
+
 
 # Model Saving and Loading
 
