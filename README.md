@@ -57,21 +57,33 @@ Training runs for 150 epochs, saving the model every 30 epochs.
 
 # Results
 
-### Generated Images (Epoch 30)
+### Generated Images (Epoch 20)
 
-![Generated Images at Epoch 30](generated_images_epoch_30.png)
+![image](https://github.com/user-attachments/assets/3a967a20-993b-4c5f-95ed-8393a50349ee)
+
+### Generated Images (Epoch 40)
+
+![image](https://github.com/user-attachments/assets/71cab690-b5d8-4d5a-b11e-756a17cd1567)
 
 ### Generated Images (Epoch 60)
 
-![Generated Images at Epoch 60](generated_images_epoch_60.png)
+![image](https://github.com/user-attachments/assets/736564d3-ae89-4118-b579-2db282fefe02)
 
-### Generated Images (Epoch 90)
+### Generated Images (Epoch 80)
 
-![Generated Images at Epoch 90](generated_images_epoch_90.png)
+![image](https://github.com/user-attachments/assets/5e4917ea-10f8-4b6b-aa18-399c5d561fc5)
+
+### Generated Images (Epoch 100)
+
+![image](https://github.com/user-attachments/assets/ffc838cb-869e-48d0-9eb1-516731927e06)
+
+### Generated Images (Epoch 120)
+
+![image](https://github.com/user-attachments/assets/66aa92d1-46f6-4a20-82b5-0d7aa223c9b2)
 
 ### Generated Images (Epoch 150)
 
-![Generated Images at Epoch 150](generated_images_epoch_150.png)
+![image](https://github.com/user-attachments/assets/5e1ad0c0-e61a-4a6e-82be-2d008dbe36a6)
 
 # Usage
 
